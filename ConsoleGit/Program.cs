@@ -10,6 +10,7 @@ namespace ConsoleGit
     {
         static void Main(string[] args)
         {
+            //A test!
         }
     }
 }
